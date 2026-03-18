@@ -53,14 +53,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nromeok/nromeok/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📫 Connect
 
 - GitHub: https://github.com/nromeok
