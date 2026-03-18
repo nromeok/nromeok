@@ -1,7 +1,7 @@
 <p align = "center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey,%20welcome%20to%20my%20space&descAlign=53&descAlignY=53&animation=fadeIn&fontSize=30&textBg=false"/>
 </p>
-# 👋  I’m Romeo — building apps, systems, and my own AI assistant.
+👋  I’m Romeo — building apps, systems, and my own AI assistant.
 
 🧠 Dev in progress, focused on real-world projects and constant growth  
 🚀 Currently building: Apartment Care App & Jade 2.0 (Personal AI Assistant)  
