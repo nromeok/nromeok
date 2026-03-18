@@ -1,10 +1,13 @@
-<p align = "center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey,%20welcome%20to%20my%20space&descAlign=53&descAlignY=53&animation=fadeIn&fontSize=30&textBg=false"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey,%20welcome%20to%20my%20space&descAlign=53&descAlignY=53&animation=fadeIn&fontSize=30&textBg=false"/>
 </p>
-👋  I’m Romeo — building apps, systems, and my own AI assistant.
 
-🧠 Dev in progress, focused on real-world projects and constant growth  
-🚀 Currently building: Apartment Care App & Jade 2.0 (Personal AI Assistant)  
+<h3 align="center">👋 I’m Romeo — building apps, systems, and my own AI assistant</h3>
+
+<p align="center">
+🧠 Dev in progress, focused on real-world projects and constant growth <br/>
+🚀 Currently building: Apartment Care App & Jade 2.0
+</p>
 
 ---
 
@@ -30,25 +33,31 @@
 ## 🚀 Projects
 
 - 🏢 **Apartment Care App** — managing tenant issues & workflows  
-- 🤖 **Jade 2.0** — my personal AI assistant (in progress)  
-
----
-
-## 📈 Growth Mindset
-
-> Learn fast. Build real systems. Become unstoppable ⚡
+- 🤖 **Jade 2.0** — personal AI assistant (in progress)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Romeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nromeok&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nromeok&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nromeok&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nromeok&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
