@@ -5,8 +5,7 @@
 <h3 align="center">👋 I’m Romeo — building apps, systems</h3>
 
 <p align="center">
-🧠 Dev in progress, focused on real-world projects and constant growth <br/>
-🚀 Currently building: Apartment Care App & Jade 2.0
+ Dev in progress, focused on real-world projects and constant growth <br/>
 </p>
 
 ---
